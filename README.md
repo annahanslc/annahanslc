@@ -14,7 +14,7 @@ I am driven to **create processes and applications** that will help take small b
   <table>
     <tr>
       <td align="left" width="80%">
-           <h4>When I'm Not Working</h4>
+           <h4>Beyond Data</h4>
            <p>
 When I'm not in front of the computer, you’ll likely find me on the <b>tennis court</b> 🎾, in the kitchen experimenting with HelloFresh or Marley Spoon recipes 🧑‍🍳, or in the car listening to <b>Harry Potter</b>⚡️ audiobooks narrated by the legendary Jim Dale.
            </p>
