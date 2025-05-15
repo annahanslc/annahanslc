@@ -22,7 +22,6 @@ When I'm not in front of the computer, you’ll likely find me on the <b>tennis 
                 I love to <b>travel</b>, especially to places where I can immerse myself in local culture away from the big cities. 
 </p>
            
-One of my favorite trips was to **Italy**, where the people's kindness left a lasting impression on me! Like the café owner who used Google Translate to explain every sandwich ingredient, or a supermarket shopper who gave us her waiting ticket at the bread counter.
       </td>
       <td align="right" width="40%">
         <img src='https://github.com/user-attachments/assets/37bd023a-9725-44a8-b3ad-2611b452263e' width = 250>
