@@ -1,5 +1,5 @@
 ## Welcome 🤗
-#### The "Why" Behind My Work
+#### Who Am I?
 
 I am a data scientist who is passionate about <b>empowering small businesses</b> through <b>data and machine learning</b>. 
 Growing up in a small family business, I witnessed firsthand how they are the livelihood of families and the heart of communities.
