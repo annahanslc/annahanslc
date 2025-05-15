@@ -5,10 +5,8 @@ I am a data scientist who is passionate about <b>empowering small businesses</b>
 Growing up in a small family business, I witnessed firsthand how they are the livelihood of families and the backbone of communities.
              
 Just like how websites have become a necessity for all businesses big and small, I believe that data science and machine learning will soon be the same.
-Opportunities to **utilize data, ML and AI** are not exclusive to large corporations, in fact, they can have a **greater impact on small companies**.
              
-I am driven to **create processes and applications** that will help take small businesses to the next level!
-
+While I care deeply about helping small businesses succeed, I’m equally excited to **solve problems at any scale**, from lean startups to large organizations, where data can drive smarter decisions and stronger outcomes!
 
 <div align="center">
   <table>
@@ -16,10 +14,8 @@ I am driven to **create processes and applications** that will help take small b
       <td align="left" width="80%">
            <h4>Beyond Data</h4>
            <p>
-When I'm not in front of the computer, you’ll likely find me on the <b>tennis court</b> 🎾, in the kitchen experimenting with HelloFresh or Marley Spoon recipes 🧑‍🍳, or in the car listening to <b>Harry Potter</b>⚡️ audiobooks narrated by the legendary Jim Dale.
-           </p>
-            <p>
-I love to travel, especially to places where I can immerse myself in the local culture away from the big cities. One of my favorite trips was to Italy, where the warmth and kindness of the people surpassed anything I’ve ever experienced! Picture of me wandering the streets of Venice ->
+I value curiosity, empathy, and play — both in and out of work.
+You’ll find me on the tennis court 🎾, experimenting with recipes 🧑‍🍳, or revisiting Harry Potter audiobooks for a dose of magic ⚡️.
            </p>
         <p></p>
       </td>
