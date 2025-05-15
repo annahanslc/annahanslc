@@ -1,5 +1,5 @@
 ## Welcome 🤗
-#### Why I Do What I Do 
+#### The "Why" Behind My Work
 
 I am a data scientist who is passionate about <b>empowering small businesses</b> through <b>data and machine learning</b>. 
 Growing up in a small family business, I witnessed firsthand how they are the livelihood of families and the backbone of communities.
@@ -14,12 +14,12 @@ I am driven to **create processes and applications** that will help take small b
   <table>
     <tr>
       <td align="left" width="80%">
-           <h4>What Else Do I Do?</h4>
+           <h4>When I'm Not Working</h4>
            <p>
-When I'm not in front of the computer, you’ll likely find me on the <b>tennis court</b>, in the kitchen experimenting with HelloFresh or Marley Spoon recipes 🧑‍🍳, or in the car listening to <b>Harry Potter</b> audiobooks narrated by the legendary Jim Dale.
+When I'm not in front of the computer, you’ll likely find me on the <b>tennis court</b> 🎾, in the kitchen experimenting with HelloFresh or Marley Spoon recipes 🧑‍🍳, or in the car listening to <b>Harry Potter</b>⚡️ audiobooks narrated by the legendary Jim Dale.
            </p>
             <p>
-I love to travel, especially to places where I can immerse myself in the local culture away from the big cities. One of my favorite trips was to Italy, where the warmth and kindness of the people surpassed anything I’ve ever experienced. 
+I love to travel, especially to places where I can immerse myself in the local culture away from the big cities. One of my favorite trips was to Italy, where the warmth and kindness of the people surpassed anything I’ve ever experienced! Picture of me wandering the streets of Venice ->
            </p>
         <p></p>
       </td>
