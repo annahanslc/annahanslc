@@ -13,7 +13,7 @@ I am driven to **create processes and applications** that will help take small b
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="70%">
+      <td align="left" width="80%">
            <h4>What Else Do I Do?</h4>
            <p>
 When I'm not in front of the computer, you’ll likely find me on the <b>tennis court</b>, in the kitchen experimenting with HelloFresh or Marley Spoon recipes 🧑‍🍳, or in the car listening to <b>Harry Potter</b> audiobooks narrated by the legendary Jim Dale.
