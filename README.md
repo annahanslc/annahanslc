@@ -21,6 +21,7 @@ When I'm not in front of the computer, you’ll likely find me on the <b>tennis 
             <p>
 I love to travel, especially to places where I can immerse myself in the local culture away from the big cities. One of my favorite trips was to Italy, where the warmth and kindness of the people surpassed anything I’ve ever experienced. 
            </p>
+        <p></p>
       </td>
       <td align="right" width="40%">
         <img src='https://github.com/user-attachments/assets/37bd023a-9725-44a8-b3ad-2611b452263e' width = 250>
