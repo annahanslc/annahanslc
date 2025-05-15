@@ -1,20 +1,20 @@
-## Welcome 🤗
-#### Who Am I?
+## Who Am I?
+#### Welcome 🤗
 
-I am a data scientist who is passionate about <b>empowering small businesses</b> through <b>data and machine learning</b>. 
-Growing up in a small family business, I witnessed firsthand how they are the livelihood of families and the heart of communities.
-             
-While I care deeply about helping small businesses succeed, I’m equally excited to **solve problems at any scale**, from lean startups to large organizations, where data can drive smarter decisions and stronger outcomes.
+I am a data scientist passionate about **empowering businesses through data and machine learning**.
+Over the course of 10 years **managing retail and wholesale operations** in a small business, I saw firsthand how data is often collected but rarely leveraged effectively.
 
-I value curiosity, empathy, and play — both in and out of work.
-You’ll find me on the tennis court 🎾, experimenting with recipes 🧑‍🍳, or revisiting Harry Potter audiobooks for a dose of magic ⚡️.
+That experience fuels my mission: to **make efficient pipelines** that will allow fast iterations from incoming data to trained model to actionable recommendations. I strive to bridge the gap between raw data and real-business impact by transforming insights into user-friendly experiences that drive better decisions and measurable results.
+
+In my free time, you’ll find me on the tennis court 🎾, experimenting with recipes 🧑‍🍳, or revisiting Harry Potter audiobooks for a dose of magic ⚡️.
 
 
-## What I am Working On Now 🔥 :
+## What I am Working On Now 🔥 
 
 1) Multi-label, Multi-class Image Classification - [🎏 Koi Fish Varieties](https://github.com/annahanslc/koi-price-prediction)
 
-## Past Projects:
+## Previous Projects 📓
+
 1) OpenAI API Chatbot and Image Generation - [🪄 Hogwarts Career Center - Advisor Live Chat](https://github.com/annahanslc/harry-potter-careers)
      - 👉 See streamlit model deployment here: [Streamlit App](https://hogwarts-career-center-chat.streamlit.app/)
 1) CNN Image Classification - [🐈 Cats vs 🐕 Dogs Classification Model](https://github.com/annahanslc/cnn-cats-v-dogs)
@@ -24,7 +24,7 @@ You’ll find me on the tennis court 🎾, experimenting with recipes 🧑‍�
      - 👉 See streamlit model deployment here: [Streamlit App](https://home-credit-app-k9pvjtot7hvwlc8mbaebgh.streamlit.app/)
 5) Regression - [🏡 Housing Price Regression Model](https://github.com/annahanslc/ames-housing-data)
 
-## Skills & Tools:
+## What's in My Toolbox 🧰
 
 Data Science Libraries: ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
