@@ -32,12 +32,12 @@ I love to travel, especially to places where I can immerse myself in the local c
 
 
 
-## Current Project:
+## What I am Working On Now 🔥 :
 
-Koi Classification
+1) Multi-label, Multi-class Image Classification - [🎏 Koi Fish Varieties](https://github.com/annahanslc/koi-price-prediction)
 
 ## Past Projects:
-1) OpenAI API [🪄 Hogwarts Career Center - Advisor Live Chat](https://github.com/annahanslc/harry-potter-careers)
+1) OpenAI API Chatbot and Image Generation - [🪄 Hogwarts Career Center - Advisor Live Chat](https://github.com/annahanslc/harry-potter-careers)
 1) CNN Image Classification - [🐈 Cats vs 🐕 Dogs Classification Model](https://github.com/annahanslc/cnn-cats-v-dogs)
 2) Time Series - [✈️ Delta Stock Price Prediction Model](https://github.com/annahanslc/project-time-series-stocks)
 3) Recommender Systems - [📍Local Google Business Recommendation Model](https://github.com/annahanslc/project-recommendation-systems)
