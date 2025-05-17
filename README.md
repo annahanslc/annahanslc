@@ -2,7 +2,7 @@
 #### Welcome 🤗
 
 I am a data scientist passionate about **empowering businesses through data and machine learning**.
-Over the course of 10 years **managing retail and wholesale operations** in a small business, I saw firsthand how data is often collected but rarely leveraged effectively.
+I **managed retail and wholesale operations** in a small business for over 10 years, where I saw firsthand how data is often collected but rarely leveraged effectively.
 
 That experience fuels my mission: to **make efficient pipelines** that will allow fast iterations from incoming data to trained model to actionable recommendations. I strive to bridge the gap between raw data and real-business impact by transforming insights into user-friendly experiences that drive better decisions and measurable results.
 
