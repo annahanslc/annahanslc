@@ -1,5 +1,4 @@
-## Who Am I?
-#### Welcome 🤗
+## Welcome 🤗
 
 I am a data scientist passionate about **empowering businesses through data and machine learning**.
 I **managed retail and wholesale operations** in a small business for over 10 years, where I saw firsthand how data is often collected but rarely leveraged effectively.
