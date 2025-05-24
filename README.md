@@ -10,8 +10,8 @@ In my free time, you’ll find me on the tennis court 🎾, experimenting with r
 
 ## What I am Working On Now 🔥 
 
-Multi-label, Multi-class Image Classification - [🎏 Koi Fish Varieties](https://github.com/annahanslc/koi-price-prediction)
-Leveraging a Convolutional Neural Network with ResNet18 to perform multi-label classification on images of koi fish.
+[🎏 Koi Fish Varieties and Traits Image Classification](https://github.com/annahanslc/koi-price-prediction)
+Leveraging a Convolutional Neural Network with ResNet18 to perform multi-label, multi-class classification on images of koi fish.
 
 ## What's in My Toolbox 🧰
 
